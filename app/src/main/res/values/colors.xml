@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ana renkler -->
+    <color name="colorPrimary">#1B5E20</color> <!-- Koyu yeşil -->
+    <color name="colorPrimaryDark">#003300</color> <!-- Çok koyu yeşil -->
+    <color name="colorAccent">#C62828</color> <!-- Kırmızı vurgular için -->
+
+    <!-- Arka plan ve yüzeyler -->
+    <color name="background">#121212</color> <!-- Siyah-tonlu koyu arka plan -->
+    <color name="surface">#1E1E1E</color> <!-- Kart/menü zeminleri -->
+
+    <!-- Yazı renkleri -->
+    <color name="textPrimary">#FFFFFF</color> <!-- Ana yazılar için beyaz -->
+    <color name="textSecondary">#B0B0B0</color> <!-- Açıklamalar veya alt yazılar -->
+
+    <!-- Ek renkler -->
+    <color name="successGreen">#4CAF50</color> <!-- Onay butonları vs. -->
+    <color name="errorRed">#D32F2F</color> <!-- Hatalar için kırmızı -->
+    <color name="buttonBlack">#212121</color> <!-- Siyah butonlar -->
+    <color name="dividerGray">#373737</color> <!-- Kart veya liste ayracı -->
+
+    <!-- Eski renkler (opsiyonel) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
